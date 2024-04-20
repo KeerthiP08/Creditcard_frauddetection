@@ -1,5 +1,6 @@
 **CREDIT CARD FRAUD DETECTION**
 This project aims to detect fraudulent transactions in credit card data using machine learning techniques. The dataset contains various transaction features such as transaction amount, merchant information, and user details.
+
 **Data Loading:** Load the dataset using pandas and display basic information about it, including its shape and data types.
 **Handling Missing Values:** Check for missing values in the dataset and handle them appropriately.
 **Visualizing Data:** Visualize the distribution of fraud labels, transaction dates, merchant categories, and other relevant aspects using various plots.
